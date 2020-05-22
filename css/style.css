@@ -29,17 +29,26 @@ h5{
     width: 90%;
 }
 
+.nav-list:hover{
+    color: black;
+}
+
 .icon{
+    width: 20px;
+    height: 20px;
+}
+
+.rounded-icon{
     width: 35px;
     height: 35px;
 }
 
-.small-logo{
-    width: 25%;
+#small-logo{
+    width: 5px;
 }
 
-.main-logo{
-    width: 40%;
+#main-logo{
+    width: 30%;
 }
 
 .small, small{
